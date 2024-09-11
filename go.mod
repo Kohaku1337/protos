@@ -1,9 +1,9 @@
-module protos
+module github.com/Kohaku1337/protos
 
 go 1.21.6
 
 require (
-	google.golang.org/grpc v1.66.0
+	google.golang.org/grpc v1.66.1
 	google.golang.org/protobuf v1.34.2
 )
 
